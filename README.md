@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexArapaho
 - 👀 I’m interested in web-development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project in web developing. 
 - 📫 How to reach me @AlexArapaho in telegram
 
